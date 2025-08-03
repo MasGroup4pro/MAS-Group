@@ -154,6 +154,11 @@
     "key": "ashiindia3month",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+  },{
+    "id": "ac165b06f816d71",
+    "key": "babermughal3month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]
 

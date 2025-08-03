@@ -17,6 +17,12 @@
     "key": "Sumera6month",
     "expiresAt": "2026-01-24",
     "allowOffline": true
+  },
+  {
+    "id": "b50fbfbcd1c32346",
+    "key": "Sumera6month",
+    "expiresAt": "2026-01-24",
+    "allowOffline": true
   }
 ]
 

@@ -124,7 +124,19 @@
     "key": "mali3month",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+  },{
+    "id": "c94e8a088fae994a",
+    "key": "Pari3month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
+  },
+  {
+    "id": "2e2f1c2321d8dbb",
+    "key": "Pari3month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
+
 ]
 
 

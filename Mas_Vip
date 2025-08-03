@@ -142,6 +142,19 @@
     "expiresAt": "2030-01-30",
     "allowOffline": true
   }
+,
+ {
+    "id": "b727acd4634cc8ba",
+    "key": "ashiindia3month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
+  },
+  {
+    "id": "3e440df9298c5dd0",
+    "key": "ashiindia3month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
+  }
 ]
 
 

@@ -154,10 +154,18 @@
     "key": "ashiindia3month",
     "expiresAt": "2030-01-30",
     "allowOffline": true
-  },{
+  },
+  {
     "id": "ac165b06f816d71",
     "key": "babermughal3month",
     "expiresAt": "2030-01-30",
+    "allowOffline": true
+  },
+  
+  {
+    "id": "8c3cce93ae9a7b86",
+    "key": "sanafree3month",
+    "expiresAt": "2025-10-30",
     "allowOffline": true
   }
 ]

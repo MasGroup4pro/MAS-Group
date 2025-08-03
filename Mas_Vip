@@ -48,6 +48,12 @@
     "expiresAt": "2030-01-30",
     "allowOffline": true
   }
+,{
+    "id": "b9929793d1fac694",
+    "key": "Aashi3month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
+  }
 ]
 
 

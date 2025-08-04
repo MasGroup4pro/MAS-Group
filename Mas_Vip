@@ -190,6 +190,13 @@
     "key": "Zeeshipaid6month",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+  },
+
+  {
+    "id": "82139ab39460c2d2",
+    "key": "Misbahfree3month",
+    "expiresAt": "2025-10-30",
+    "allowOffline": true
   }
 ]
 

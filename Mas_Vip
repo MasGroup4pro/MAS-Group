@@ -141,8 +141,7 @@
     "key": "rohit3month",
     "expiresAt": "2030-01-30",
     "allowOffline": true
-  }
-,
+  },
  {
     "id": "b727acd4634cc8ba",
     "key": "ashiindia3month",
@@ -161,7 +160,6 @@
     "expiresAt": "2030-01-30",
     "allowOffline": true
   },
-  
   {
     "id": "8c3cce93ae9a7b86",
     "key": "sanafree3month",
@@ -274,7 +272,7 @@
     "key": "KhushiiMAS",
     "expiresAt": "2030-01-30",
     "allowOffline": true
-  },
+  }
 ]
 
 

@@ -90,41 +90,6 @@
     "expiresAt": "2030-01-30",
     "allowOffline": true
   },{
-    "id": "eb6d597462541954",
-    "key": "mali3month",
-    "expiresAt": "2030-01-30",
-    "allowOffline": true
-  },
-  {
-    "id": "ac165aed2c52293",
-    "key": "mali3month",
-    "expiresAt": "2030-01-30",
-    "allowOffline": true
-  },
-  {
-    "id": "b7e4d8b21b3daf1d",
-    "key": "mali3month",
-    "expiresAt": "2030-01-30",
-    "allowOffline": true
-  },
-  {
-    "id": "e503db665b90fac8",
-    "key": "mali3month",
-    "expiresAt": "2030-01-30",
-    "allowOffline": true
-  },
-  {
-    "id": "f95c6c1f690ddc2f",
-    "key": "mali3month",
-    "expiresAt": "2030-01-30",
-    "allowOffline": true
-  },
-  {
-    "id": "c50badf40fdfc8b9",
-    "key": "mali3month",
-    "expiresAt": "2030-01-30",
-    "allowOffline": true
-  },{
     "id": "c94e8a088fae994a",
     "key": "Pari3month",
     "expiresAt": "2030-01-30",

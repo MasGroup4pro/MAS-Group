@@ -255,7 +255,14 @@
     "key": "KhushiiMAS",
     "expiresAt": "2030-01-30",
     "allowOffline": true
-  },
+  }
+,
+{
+    "id": "d766130bda6af41d",
+    "key": "kabir3month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
+  }
 ]
 
 

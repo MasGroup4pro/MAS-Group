@@ -274,6 +274,18 @@
     "key": "urdu3month",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+  },
+{
+    "id": "5c6d9fe967c91c77",
+    "key": "Usmanads3month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
+  },
+{
+    "id": "9765a3825f0ae216",
+    "key": "Usmanads3month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]
 

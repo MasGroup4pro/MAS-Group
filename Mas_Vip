@@ -274,6 +274,12 @@
     "key": "urdu3month",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+  },
+{
+    "id": "9b51dda9ed64ed6c",
+    "key": "Wasif3monthads",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]
 

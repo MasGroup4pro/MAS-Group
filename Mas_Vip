@@ -322,6 +322,12 @@
     "key": "WaqsAwan3month",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+  },
+{
+    "id": "67fb2efa1a1a0173",
+    "key": "Alihassan1year",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]
 

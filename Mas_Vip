@@ -328,6 +328,24 @@
     "key": "Alihassan1year",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+  },
+{
+    "id": "b99a0e673c754980",
+    "key": "morningadsvip",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
+  },
+{
+    "id": "9846ee5354e4d322",
+    "key": "morningadsvip",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
+  },
+{
+    "id": "47d0e1e9fdadc5d8",
+    "key": "morningadsvip",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]
 

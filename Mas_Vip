@@ -346,6 +346,12 @@
     "key": "morningadsvip",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+  },
+{
+    "id": "7c5d627f914c2fc5",
+    "key": "muneebvip3month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]
 

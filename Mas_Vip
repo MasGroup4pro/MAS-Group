@@ -364,24 +364,6 @@
     "key": "muneebvip3month",
     "expiresAt": "2030-01-30",
     "allowOffline": true
-  },
-{
-    "id": "4d2da4a5597508d5",
-    "key": "haseebvip3month",
-    "expiresAt": "2030-01-30",
-    "allowOffline": true
-  },
-{
-    "id": "96f15665cf16c749",
-    "key": "haseebvip3month",
-    "expiresAt": "2030-01-30",
-    "allowOffline": true
-  },
-{
-    "id": "faff43dbadc1b0ae",
-    "key": "haseebvip3month",
-    "expiresAt": "2030-01-30",
-    "allowOffline": true
   }
 ]
 

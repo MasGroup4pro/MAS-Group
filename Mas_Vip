@@ -364,6 +364,12 @@
     "key": "muneebvip3month",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+  },
+{
+    "id": "ea6ed957d9c1ab7a",
+    "key": "Talhaads3month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]
 

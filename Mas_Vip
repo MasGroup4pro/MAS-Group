@@ -370,6 +370,18 @@
     "key": "Talhaads3month",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+  },
+{
+    "id": "fcba165a4c4d0f3e",
+    "key": "Chand3month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
+  },
+{
+    "id": "89693417e8371fb7",
+    "key": "Chand3month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]
 

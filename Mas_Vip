@@ -382,6 +382,12 @@
     "key": "Chand3month",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+  },
+{
+    "id": "d4c30e0f91348fcc",
+    "key": "Ashi1monty",
+    "expiresAt": "2025-11-23",
+    "allowOffline": true
   }
 ]
 

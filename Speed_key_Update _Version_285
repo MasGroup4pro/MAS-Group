@@ -1,1 +1,14 @@
-copyid
+[
+  {
+    "id": "d85e2b7be23c5399",
+    "key": "Hkpalyer",
+    "expiresAt": "2030-05-30",
+    "allowOffline": true
+  },
+  {
+    "id": "6d8b86228e9bf6da",
+    "key": "Hkpalyer",
+    "expiresAt": "2030-06-15",
+    "allowOffline": true
+  }
+]

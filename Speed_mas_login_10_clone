@@ -54,5 +54,29 @@
     "key": "Hkplayer650",
     "expiresAt": "2030-06-15",
     "allowOffline": true
+  },
+{
+    "id": "10c8db9a56f8f4ed",
+    "key": "Rubi3month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
+  },
+{
+    "id": "af79b85d5846a839",
+    "key": "Rubi3month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
+  },
+{
+    "id": "cb68b285e7fafdb3",
+    "key": "Rubi3month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
+  },
+{
+    "id": "c262888177ff4cc3",
+    "key": "Rubi3month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]

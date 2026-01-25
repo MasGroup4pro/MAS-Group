@@ -110,5 +110,11 @@
     "key": "Waqas3month",
     "expiresAt": "2030-06-15",
     "allowOffline": true
+  },
+{
+    "id": "5b561d1ea0cae8e4",
+    "key": "Waqas3month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]

@@ -99,5 +99,16 @@
     "key": "Gurman3month",
     "expiresAt": "2030-05-30",
     "allowOffline": true
+  },{
+    "id": "5f2567a57022ef3e",
+    "key": "Waqas3month",
+    "expiresAt": "2030-05-30",
+    "allowOffline": true
+  },
+  {
+    "id": "2b55022230f26c75",
+    "key": "Waqas3month",
+    "expiresAt": "2030-06-15",
+    "allowOffline": true
   }
 ]

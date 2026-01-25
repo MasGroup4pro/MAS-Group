@@ -83,5 +83,21 @@
     "key": "Hkplayer650",
     "expiresAt": "2030-05-30",
     "allowOffline": true
+  },{
+    "id": "0ff7ee4e0adb0402",
+    "key": "Gurman3month",
+    "expiresAt": "2030-05-30",
+    "allowOffline": true
+  },
+  {
+    "id": "d766130bda6af41d",
+    "key": "Gurman3month",
+    "expiresAt": "2030-06-15",
+    "allowOffline": true
+  },{
+    "id": "e24adccc9af01639",
+    "key": "Gurman3month",
+    "expiresAt": "2030-05-30",
+    "allowOffline": true
   }
 ]

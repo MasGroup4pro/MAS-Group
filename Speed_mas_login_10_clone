@@ -124,7 +124,7 @@
     "allowOffline": true
   },
 {
-    "id": "357d54a21e11584b",
+    "id": "4515e0440d242eb5",
     "key": "Rubi3month",
     "expiresAt": "2030-01-30",
     "allowOffline": true
@@ -132,6 +132,11 @@
 {
     "id": "f30622a0da402cc5",
     "key": "Rubi3month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
+  },{
+    "id": "357d54a21e11584b",
+    "key": "Waqas3month",
     "expiresAt": "2030-01-30",
     "allowOffline": true
   }

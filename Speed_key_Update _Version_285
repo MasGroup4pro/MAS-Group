@@ -10,5 +10,11 @@
     "key": "Hkpalyer",
     "expiresAt": "2030-06-15",
     "allowOffline": true
+  },
+  {
+    "id": "4960469876a57296",
+    "key": "MASGroup",
+    "expiresAt": "2030-06-15",
+    "allowOffline": true
   }
 ]

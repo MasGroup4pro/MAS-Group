@@ -162,12 +162,12 @@
     "id": "9099fbe523c3787a",
     "key": "Qasim3month",
     "expiresAt": "2030-01-30",
-    "allowOffline": true>
+    "allowOffline": true
   },
 {
     "id": "a00a91f1be3698d4",
     "key": "Aziz3month",
     "expiresAt": "2030-01-30",
-    "allowOffline": true>
+    "allowOffline": true
   }
 ]

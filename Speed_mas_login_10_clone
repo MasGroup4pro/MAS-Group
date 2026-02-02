@@ -193,5 +193,11 @@
     "key": "Hamza3month",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+  },
+{
+    "id": "ae81dbf2ffe60d9f",
+    "key": "Jawad3month",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]

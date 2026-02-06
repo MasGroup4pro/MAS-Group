@@ -194,5 +194,17 @@
     "key": "Jawad3month",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+  },
+{
+    "id": "0f6bf04d6e2d7464",
+    "key": "Noorkhanspeed",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
+  },
+{
+    "id": "a70abfeaa9bcb51f",
+    "key": "Noorkhanspeed",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]

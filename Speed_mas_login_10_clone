@@ -236,5 +236,11 @@
     "key": "Alialispeed",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+  },
+{
+    "id": "a1d77988eb939ee5",
+    "key": "Waheed6monthspeed",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]

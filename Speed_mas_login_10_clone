@@ -248,5 +248,11 @@
     "key": "Kawser6monthspeed",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+  },
+{
+    "id": "361586ac57835d38",
+    "key": "fasti6monthspeed",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]

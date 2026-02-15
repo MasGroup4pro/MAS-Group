@@ -242,5 +242,11 @@
     "key": "Waheed6monthspeed",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+  },
+{
+    "id": "e69b794ed2a743d4",
+    "key": "Kawser6monthspeed",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]

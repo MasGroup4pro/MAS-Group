@@ -254,5 +254,11 @@
     "key": "fasti6monthspeed",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+  },
+{
+    "id": "f0b95289818373f5",
+    "key": "Efti3monthspeed",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]

@@ -308,5 +308,11 @@
     "key": "gulamspeed3",
     "expiresAt": "2030-01-30",
     "allowOffline": true
+  },
+{
+    "id": "05830fbfd4da9caa",
+    "key": "hkspeed3",
+    "expiresAt": "2030-01-30",
+    "allowOffline": true
   }
 ]
